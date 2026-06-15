@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Reel Blocker</string>
+    <string name="accessibility_service_label">Reel Blocker</string>
+    <string name="accessibility_service_description">Reel Blocker watches for Instagram\'s Reels and Explore tabs and blocks them, sending you back to Home or Create. It only reads Instagram screen content to do this and does not collect or share any data.</string>
+    <string name="block_overlay_reels">Reels is blocked by Reel Blocker</string>
+    <string name="block_overlay_explore">Explore is blocked by Reel Blocker</string>
+</resources>
